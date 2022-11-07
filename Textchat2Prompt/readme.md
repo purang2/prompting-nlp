@@ -3,7 +3,10 @@
 
 ### Paper
 
-[[Paper Link]](https://github.com/purang2/prompting-nlp/blob/main/Textchat2Prompt/paper_pdf.pdf)
+
+[[List of Contents + Paper, Link]](https://github.com/purang2/prompting-nlp/blob/main/Textchat2Prompt/paper_pdf.pdf)
+
+[[⭐Paper Only, Link]](https://github.com/purang2/prompting-nlp/blob/main/Textchat2Prompt/only_paper_pdf.pdf)
 
 
 ### HCLT 2022 (The 34th Annual Conference on Human & Cognitive Language Technology, )
