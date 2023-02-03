@@ -2,12 +2,12 @@
 
 ## [Text Generation with Prompting PPT](https://github.com/purang2/prompting-nlp/blob/main/PPT-Sildes/LabSeminar_NLGwithPrompting.pdf) 
 
-Text Generation with Prompting [PPT Slides](https://github.com/purang2/prompting-nlp/blob/main/PPT-Sildes/LabSeminar_NLGwithPrompting.pdf) ***by Eunchan Lee ( UNIST AI )***
+Text Generation with Prompting [PPT Slides](https://github.com/purang2/prompting-nlp/blob/main/PPT-Sildes/LabSeminar_NLGwithPrompting.pdf) ***by [Eunchan Lee ( UNIST AI )](https://github.com/purang2)***
 
 
 
 
-### Outline
+### Outline ***(You can check it on the PPT)***
 Step 1: Text Generation 
 ( Before & After GPT )
 
