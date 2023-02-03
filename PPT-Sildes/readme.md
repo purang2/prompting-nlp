@@ -1,8 +1,10 @@
 
 
-## Text Generation with Prompting PPT 
+## [Text Generation with Prompting PPT](https://github.com/purang2/prompting-nlp/blob/main/PPT-Sildes/LabSeminar_NLGwithPrompting.pdf) 
 
-Text Generation with Prompting PPT Slides ***by Eunchan Lee ( UNIST AI )***
+Text Generation with Prompting [PPT Slides](https://github.com/purang2/prompting-nlp/blob/main/PPT-Sildes/LabSeminar_NLGwithPrompting.pdf) ***by Eunchan Lee ( UNIST AI )***
+
+
 
 
 ### Outline
